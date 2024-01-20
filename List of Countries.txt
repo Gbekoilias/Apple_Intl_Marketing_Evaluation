@@ -1,0 +1,62 @@
+North America: United States								
+				Canada
+				Mexico
+
+South America: Brazil
+			Argentina
+			Chile
+			Colombia
+			Peru
+			Ecuador
+
+Europe: United Kingdom
+		Germany
+		France
+		Italy
+		Spain
+		Netherlands
+		Sweden
+		Switzerland
+		Belgium
+		Norway
+		Denmark
+		Finland
+		Ireland
+		Austria
+		Portugal
+
+Asia: China
+	Japan
+	South Korea
+	India
+	Singapore
+	Hong Kong
+	Taiwan
+	Malaysia
+	Thailand
+	Indonesia
+	Philippines
+	Vietnam
+
+Middle East: United Arab Emirates
+			Saudi Arabia
+			Israel
+			Qatar
+			Kuwait
+			Bahrain
+			Oman
+			Jordan
+
+Africa: South Africa
+	    Nigeria
+	    Kenya
+    	    Egypt
+	   Morocco
+	   Ghana
+	   Ivory Coast
+	   Senegal
+ 	   Tunisia
+
+
+Key Markets: United States
+			India
